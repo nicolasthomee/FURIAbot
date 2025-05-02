@@ -5,8 +5,8 @@ import random
 # 📰 Notícias
 async def noticias(query: CallbackQuery, context: ContextTypes.DEFAULT_TYPE):
     await query.message.reply_photo(
-        photo="https://i.imgur.com/4M34hi2.jpeg",
-        caption="📰 Última notícia: FURIA revela novo uniforme!"
+        photo="https://furiagg.fbitsstatic.net/img/p/camiseta-oficial-furia-adidas-preta-150265/337491-1.jpg?w=1280&h=1280&v=202503281009",
+        caption="📰 Última notícia: FURIA anuncia uniforme em parceria com a Adidas!"
     )
 
 # 🏆 Resultados
@@ -29,7 +29,7 @@ async def redes(query: CallbackQuery, context: ContextTypes.DEFAULT_TYPE):
 # 📅 Próxima Partida
 async def proxima_partida(query: CallbackQuery, context: ContextTypes.DEFAULT_TYPE):
     await query.message.reply_text(
-        "📅 A próxima partida da FURIA será contra a NAVI no dia 28/04 às 18h! 🔥"
+        "📅 A próxima partida da FURIA será contra The MongolZ no dia 10/05 às 05h! 🔥"
     )
 
 # 🎤 Simulador de Torcida
