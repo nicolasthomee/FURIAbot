@@ -1,23 +1,23 @@
 # 🦊 Bot FURIA – Telegram Chatbot
 
-Este repositório contém o protótipo de um chatbot da FURIA desenvolvido com foco em fãs que desejam interagir com o time de forma rápida, prática e divertida através do Telegram. O projeto inclui uma **landing page** funcional que redireciona para o bot e um **bot integrado** com múltiplas funcionalidades.
+Este repositório contém o protótipo de um chatbot da FURIA desenvolvido com foco em fãs que desejam interagir com o time de forma rápida e prática através do Telegram. O projeto inclui uma **landing page** funcional que redireciona para o bot e um **bot integrado** com múltiplas funcionalidades.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
 ```
-furia-bot/
-│
-├── bot/                 # Código-fonte do bot em Python
-│   ├── bot.py
-│   └── .env             # Variáveis de ambiente (não subir para o GitHub)
-│
-├── landing-page/       # Código da landing page
-│   ├── index.html
-│   └── logo.png
-│
-└── README.md            # Documentação geral do projeto
+📁 FURIAbot/  
+├── 📁 furia-bot/              # Pasta com o código-fonte do bot em Python  
+│   ├── 🐍 bot.py              # Arquivo principal que inicializa e executa o bot  
+│   └── 🧩 commands.py         # Arquivo que define os comandos e funcionalidades do bot  
+│  
+├── 📁 imagens/                # Pasta para armazenar imagens usadas na landing page
+│  
+├── 📄 index.html              # Código da landing page 
+│  
+└── 📄 README.md               # Documentação completa do projeto, instruções de uso e detalhes técnicos  
+
 ```
 
 ---
