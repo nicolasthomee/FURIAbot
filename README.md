@@ -1,4 +1,4 @@
-# 🦊 Bot FURIA – Telegram Chatbot
+# 🖤 Bot FURIA – Telegram Chatbot
 
 Este repositório contém o protótipo de um chatbot da FURIA desenvolvido com foco em fãs que desejam interagir com o time de forma rápida e prática através do Telegram. O projeto inclui uma **landing page** funcional que redireciona para o bot e um **bot integrado** com múltiplas funcionalidades.
 
